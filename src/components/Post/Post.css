@@ -1,0 +1,20 @@
+
+.Post{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color:var(--cardColor) ;
+    border-radius: 1rem;
+    gap: 1rem;
+
+}
+
+.postReact{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.detail span{
+    margin-right: 10px;
+}
